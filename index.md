@@ -3,6 +3,6 @@ title: "Accueil"
 order: 0
 in_menu: true
 ---
-# *Bienvenue sur mon site de jeux Indépendant*
+# *Bienvenue sur mon site de jeux Indépendant & Collaboratifs*
 
-_Retrouvez ici tous les jeux ou projets développer ou en cours de développement_ 
+*_Retrouvez ici tous les jeux ou projets développés ou en cours de développement_ 
