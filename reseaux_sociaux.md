@@ -10,4 +10,4 @@ in_menu: true
 
 # Mon GitHub
 **_[DarkMax31](https://github.com/DarkMax31/)_**
-<img src="images/GithubPP.png" alt="Avatar GitHub" class="profile-circle">
+<img src="images/GithubPP.jpg" alt="Avatar GitHub" class="profile-circle">
